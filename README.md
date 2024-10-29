@@ -1,1 +1,1 @@
-This is for making homepage to marketing about "pandamarket"
+This is for making homepage for marketing about "pandamarket"
